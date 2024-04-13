@@ -4,6 +4,6 @@ body {
   background-position: center;
   font-family: Arial, sans-serif;
   min-height: 100vh;
-  color: white;  /* Makes all text white */
+  color: black;  /* Makes all text white */
   background-color: url("https://smontijo02.github.io/buenprovecho.io/pattern.png") rgba(255, 255, 255, 0.5); /* Sets background color white with 50% opacity */
 }
