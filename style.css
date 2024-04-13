@@ -1,6 +1,6 @@
 body {
   background-image: url("https://smontijo02.github.io/buenprovecho.io/pattern.png"); /* Replace with the actual path to your pattern image */
-  background-repeat: repeat; /* Adjust as needed (repeat-x, repeat-y, no-repeat) */
+  background-repeat: cover; /* This will make the image cover the entire page */
   background-position: center; /* Adjust position (top left, center, etc.) */
   font-family: Arial, sans-serif; /* Basic font styling */
 }
