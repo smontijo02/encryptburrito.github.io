@@ -4,4 +4,5 @@ body {
   background-position: center;
   font-family: Arial, sans-serif;
   min-height: 100vh; /* Ensures body has at least viewport height */
+  color: white;  /* Makes all text white */
 }
